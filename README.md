@@ -7,7 +7,7 @@
 1324
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=azure,css,docker,eclipse,fastapi,figma,git,github,gitlab,go,html,java,js,nuxtjs,linux,postgres,postman,py,vscode,vue" alt="Skills and tools"/>
+    <img src="https://skillicons.dev/icons?i=azure,css,docker,eclipse,fastapi,figma,git,gitlab,html,java,js,nuxtjs,postgres,py,vscode,vue" alt="Skills and tools"/>
   </a>
 </p>
 
