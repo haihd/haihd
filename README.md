@@ -4,7 +4,6 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=pavlo_bondarenko_visitor_badge_simple&left_color=royalblue&right_color=black"  />
 
 <h3 align="center">:hammer_and_wrench: Languages and Tools</h3>
-1324
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=azure,css,docker,eclipse,figma,git,gitlab,html,java,js,nuxtjs,postgres,py,vscode,vue" alt="Skills and tools"/>
