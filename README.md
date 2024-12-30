@@ -9,6 +9,8 @@
   </a>
 </p>
 
+![GitHub Snake](https://raw.githubusercontent.com/haihd/haihd/refs/heads/output/github-snake-dark.svg)
+
 <div style="display: flex; justify-content: space-between; align-items: flex-start; margin-top: 20px;">
   <!-- Left Column: Metrics -->
   <div style="flex: 1; max-width: 45%;">
