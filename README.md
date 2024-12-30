@@ -19,7 +19,7 @@
   <div style="flex: 1; max-width: 45%; text-align: left; margin-left: 20px;">
   <h3>🧑‍💻 About Me</h3>
         <p>
-            I’m a passionate developer with a strong foundation in Java web applications and full-stack development. I thrive on learning new things and embracing challenges that push me to grow. Lately, I’ve been diving into the fascinating world of AI and exploring its real-world applications, combining curiosity with innovation. My journey in tech has been fueled by a drive to create impactful solutions and continuously expand my skill set.
+            I’m a passionate developer with a strong foundation in Java web applications and full-stack development. I thrive on learning new things and embracing challenges that push me to grow. </br>Lately, I’ve been diving into the fascinating world of AI and exploring its real-world applications, combining curiosity with innovation. </br>My journey in tech has been fueled by a drive to create impactful solutions and continuously expand my skill set.
         </p>      
     </div>
 </div>
