@@ -19,13 +19,7 @@
   <div style="flex: 1; max-width: 45%; text-align: left; margin-left: 20px;">
   <h3>🧑‍💻 About Me</h3>
         <p>
-            I'm a passionate software developer with a strong background in cloud computing, game development, and full-stack web development. 
-            I have a keen interest in solving complex problems and building scalable solutions. When I'm not coding, you can find me engaged 
-            in physical activities like swimming and judo, or planning my next adventure. 
-        </p>
-        <p>
-            My journey in tech has led me to work with various cutting-edge technologies and collaborate with amazing teams across different 
-            projects. I’m always eager to learn new things and share my knowledge with the community through my YouTube.
-        </p>
+            I’m a passionate developer with a strong foundation in Java web applications and full-stack development. I thrive on learning new things and embracing challenges that push me to grow. Lately, I’ve been diving into the fascinating world of AI and exploring its real-world applications, combining curiosity with innovation. My journey in tech has been fueled by a drive to create impactful solutions and continuously expand my skill set.
+        </p>      
     </div>
 </div>
