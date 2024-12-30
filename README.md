@@ -5,7 +5,7 @@
 <h3 align="center">:hammer_and_wrench: Languages and Tools</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=azure,css,docker,eclipse,figma,git,gitlab,html,java,js,nuxtjs,postgres,py,vscode,vue" alt="Skills and tools"/>
+    <img src="https://skillicons.dev/icons?i=java,js,css,html,nuxtjs,express,py,django,fastapi,postgres,vscode,vue,figma,azure,cloudflare,docker,eclipse,git,github,githubactions,gitlab,bash,figma,flutter,go,linux,nodejs,postman,rabbitmq,vite&theme=dark&perline=15" alt="Skills and tools"/>
   </a>
 </p>
 
